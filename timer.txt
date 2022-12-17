@@ -1,0 +1,4 @@
+s = seconds m = minutes h = hours
+e.g. 25m = 25 minutes
+
+25m
